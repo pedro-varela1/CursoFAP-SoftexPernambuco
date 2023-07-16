@@ -15,14 +15,25 @@ Por fim, podemos alocar as posições restantes de cada na Física: 1º Aristót
 
 # Resultado
 - Física:
-	1º Aristóteles
-	2º Platão
-	3º Sócrates
+
+	1º Aristóteles;
+  
+	2º Platão;
+  
+	3º Sócrates.
+  
 - Química:
-	1º Sócrates
-	2º Aristóteles
-	3º Platão
+
+	1º Sócrates;
+  
+	2º Aristóteles;
+  
+	3º Platão.
+  
 - Matemática:
-	1º Platão
-	2º Sócrates
-	3º Aristóteles
+
+	1º Platão;
+  
+	2º Sócrates;
+  
+	3º Aristóteles.
