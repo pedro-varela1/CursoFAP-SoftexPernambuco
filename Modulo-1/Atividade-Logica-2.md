@@ -1,4 +1,4 @@
-# Atividade de Lógica dos Filósofos
+# Atividade do Professor e das Cadeiras
 
 ## Pergunta
 Em uma sala de aula, há vinte e cinco alunos.
