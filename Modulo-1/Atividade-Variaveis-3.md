@@ -20,23 +20,21 @@ As variáveis **nome** e **endereço** são do tipo caractere (_char_); as vari�
 Vale ressaltar que nenhum dado foi considerado como constante pois pode haver a representação dos dados de outra pessoas nessas variáveis.
 
 ## Declaração:
-char nome;
 
-int cpf;
-
-int rg;
-
-float altura;
-
-char endereco;
+```portugol
+var nome: caractere
+var cpf: inteiro
+var rg: inteiro
+var altura: real
+var endereco: caractere
+```
 
 ## Atribuição:
+
+```portugol
 nome <- "José Almeida da Silva";
-
 cpf <- 12345678900;
-
 rg <- 9517530;
-
 altura <- 1.78;
-
 endereco <- "Rua A, 380 – Centro – Recife/PE";
+```
