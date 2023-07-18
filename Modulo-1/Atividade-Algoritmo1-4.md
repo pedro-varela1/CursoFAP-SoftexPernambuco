@@ -14,7 +14,7 @@ Elabore um algoritmo que representa um cadastro. Ele deve ler os seguintes dados
 
 Apresente as informações solicitadas no final do cadastro.
 
-# Algoritmo:
+# Algoritmo
 
 ```portugol
 var nome: caractere
