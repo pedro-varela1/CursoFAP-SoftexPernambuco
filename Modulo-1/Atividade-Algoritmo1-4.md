@@ -30,25 +30,25 @@ var renda_bruta: real
 
 inicio
 escreva("Digite seu nome: ");
-leia(nome)
+leia(nome);
 escreva("Digite seu endereço: ");
-leia(endereco)
+leia(endereco);
 escreva("Digite sua cidade: ");
-leia(cidade)
+leia(cidade);
 escreva("Digite seu CPF: ");
-leia(cpf)
+leia(cpf);
 escreva("Digite seu RG: ");
-leia(rg)
+leia(rg);
 escreva("Digite sua idade: ");
-leia(idade)
+leia(idade);
 escreva("Digite o nome do seu pai: ");
-leia(nome_pai)
+leia(nome_pai);
 escreva("Digite o nome da sua mãe: ");
-leia(nome_mae)
+leia(nome_mae);
 escreva("Digite seu peso: ");
-leia(peso)
+leia(peso);
 escreva("Digite sua renda bruta: ");
-leia(renda bruta)
+leia(renda bruta);
 
 escreva("Seu nome é: ", nome);
 escreva("Seu endereço é: ", endereco);
