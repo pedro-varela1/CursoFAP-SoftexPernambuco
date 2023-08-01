@@ -36,7 +36,7 @@ function buscaBinaria(arr, target) {
   return -1; // Retorna -1 se o elemento não for encontrado no array
 }
 ```
-Veja que, como o índice do array sempre começa em 0, o seu primeiro índice é 0 (_inicio_) e o último índice é o tamanho do array menos um (_arr.length - 1_).
+Veja que, como o índice do array sempre começa em 0, o seu primeiro índice é 0 (_inicio_) e o último índice é o tamanho do array menos um ($arr.length - 1$).
 
 E, percorrento todos os "meios" do array, é retornado o índice desse "meio" se ele for igual ao target, se não, é analisado um novo "meio", a depender se ele é maior ou menor que o target. Se esse target não for encontrado no vetor, é retornado -1.
 
@@ -44,7 +44,7 @@ Como dito, é necessário ordenar o array antes de passar por essa função. Par
 ```js
 array.sort((a, b) => a - b)
 ```
-A função de comparação (a, b) => a - b é passada para o sort. Essa função é um comparador numérico simples que subtrai _b_ de _a_. Ela retorna um valor negativo se _a_ for menor que _b_, um valor positivo se _a_ for maior que _b_, e 0 se _a_ e _b_ forem iguais.
+A função de comparação $(a, b) => a - b$ é passada para o sort. Essa função é um comparador numérico simples que subtrai _b_ de _a_. Ela retorna um valor negativo se _a_ for menor que _b_, um valor positivo se _a_ for maior que _b_, e 0 se _a_ e _b_ forem iguais.
 
 Essa função de comparação é necessária porque o método sort por padrão classifica os elementos do array como strings. Isso pode levar a resultados inesperados quando o array contém números, pois os números são ordenados lexicograficamente como strings.
 
