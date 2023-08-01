@@ -7,8 +7,6 @@ Para isso, temos que escolher entre realizar uma busca linear ou binária de aco
 
 Codifique a solução mais eficiente para buscar o número 20 no array.
 
----
-
 ## Solução: Algoritmo e Código
 Observe que a lista está desordenada, então, não é possível aplicar o método de busca binária diretamente, somente o método de busca linear.
 
@@ -51,6 +49,8 @@ A função de comparação (a, b) => a - b é passada para o sort. Essa função
 Essa função de comparação é necessária porque o método sort por padrão classifica os elementos do array como strings. Isso pode levar a resultados inesperados quando o array contém números, pois os números são ordenados lexicograficamente como strings.
 
 Portanto, a chamada `array.sort((a, b) => a - b)` garante que o array seja ordenado numericamente antes de realizar a busca binária, para que a busca seja feita corretamente.
+
+---
 
 Temos a função completa em JavaScript:
 ```js
