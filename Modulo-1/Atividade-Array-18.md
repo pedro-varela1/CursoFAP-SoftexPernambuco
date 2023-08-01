@@ -33,3 +33,8 @@ console.log('Lista de nomes após modificações:', nomes);
 console.log('Lista de idades após modificações:', idades);
 console.log('Lista de cores favoritas após modificações:', coresFavoritas);
 ```
+
+Como resultado do código no Replit, temos:
+
+![image](https://github.com/pedro-varela1/CursoFAP-SoftexPernambuco/assets/93870597/98ce2428-2a59-45c3-85d1-0e3d71de4ce6)
+
