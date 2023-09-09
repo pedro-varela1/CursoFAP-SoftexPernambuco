@@ -28,7 +28,7 @@ var result2 = par_ou_impar(num2);
 console.log(num2 + " é " + result2);
 ```
 
-A função que verifica se o número é par ou ímpar é baseada na estrutura condicional _if else_ - se o resto da divisão por 0 for 0, o número é par, caso contrário, ele é ímpar.
+A função que verifica se o número é par ou ímpar é baseada na estrutura condicional _if else_ - se o resto da divisão por 2 for 0, o número é par, caso contrário, ele é ímpar.
 
 A saída do código foi:
 
